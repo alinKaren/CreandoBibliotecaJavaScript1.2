@@ -1,11 +1,9 @@
-//Es la cédula de identidad y el manual de instrucciones de tu aplicación.
-
 
 {
-  "name": "creandobibliotecajavascript",
-  "version": "1.0.0",
+  "name": "creandobibliotecajavascript:contando palabras",
+  "version": "0.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "TratamientoErrores/ComandLineInterface",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +15,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/alinKaren/BibliotecaJavaScriptContarPalabras/issues"
   },
