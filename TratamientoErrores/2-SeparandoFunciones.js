@@ -33,8 +33,11 @@ export default function contarPalabras(texto) {
 
     // Imprime el arreglo (lista) final con el conteo de palabras,
     // habiendo eliminado por completo las líneas vacías del texto.
+    //console.log() solo sirve para los ojos del programador.
+    //return sirve para el resto de tu código. Le dice a la función: "Terminé mi trabajo, toma el resultado real y dáselo a quien me llamó para que pueda seguir trabajando con él".
     console.log(listaPalabrasParrafos);
-}c
+    return listaPalabrasParrafos; 
+}
 
 
 // 2° PARTE: Separación del texto en líneas
